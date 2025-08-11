@@ -16,7 +16,7 @@
     "react-dom": "19.1.0",
     "react-icons": "^5.5.0",
     "next-sitemap": "^4.2.3",
-    "rate-limiter-flexible": "^7.2.0"
+    "rate-limiter-flexible": "^2..9"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
