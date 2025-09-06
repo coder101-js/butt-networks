@@ -1,5 +1,0 @@
-# Redirect www to root domain
-http://www.buttnetworks.com/*  https://buttnetworks.com/:splat  301!
-https://www.buttnetworks.com/* https://buttnetworks.com/:splat  301!
- 
-
