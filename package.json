@@ -22,7 +22,7 @@
     "eslint": "^9",
     "eslint-config-next": "^14.3.2",
     "tailwindcss": "^4",
-    "postcss": "^9",
-    "autoprefixer": "^10"
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.21"
   }
 }
